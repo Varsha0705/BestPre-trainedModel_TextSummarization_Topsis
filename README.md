@@ -1,5 +1,3 @@
-# BestPre-trainedModel_TextSummarization_Topsis
-
 # Text Summarization Model Evaluation using TOPSIS
 
 This project applies **TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)** to evaluate different **pre-trained text summarization models** based on ROUGE scores and inference time.
